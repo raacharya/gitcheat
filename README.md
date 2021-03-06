@@ -1,6 +1,5 @@
-Welcome to the official Gitcheat interactive tutorial! While following the steps below, you will
-obtain hands-on experience working with Git in a way that is representative of the situations you
-will face on the real job. Enjoy!
+Welcome to the official Gitcheat interactive tutorial! Here, you will obtain hands-on experience working with Git in a way that simulates real-world software
+development.
 
 **Section 1: Setup**
 
